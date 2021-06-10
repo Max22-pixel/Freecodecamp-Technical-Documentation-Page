@@ -2,7 +2,7 @@
 body {
   box-sizing: border-box;
   margin: 0;
-  padding: 0%;
+  padding: 0;
   font-family: "Roboto", sans-serif;
 }
 nav {
@@ -17,12 +17,12 @@ nav {
 }
 header {
   color: black;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   margin-top: 1rem;
   text-align: center;
   font-size: 1.8em;
 }
-ul {
+/* ul {
   display: block;
   list-style-type: none;
   margin-block-start: 1em;
@@ -30,7 +30,7 @@ ul {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
-}
+} */
 
 main {
   display: block;
@@ -38,13 +38,13 @@ main {
   margin-right: 10px;
   margin-top: 10px;
 }
-li {
+/* li {
   display: block;
   padding-left: 30px;
   color: #4d4e53;
   text-decoration: none;
   cursor: pointer;
-}
+} */
 #limit_fungsi {
   text-align: left;
   margin-bottom: 0;
