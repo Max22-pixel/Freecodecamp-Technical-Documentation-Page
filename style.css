@@ -48,13 +48,13 @@ main {
   margin-right: 20px;
   margin-top: 320px;
   background-color: #1d3557;
-  color: #f1faeed8;
+  color: #f1faeefd;
   padding: 10px;
 }
 img {
-  width: 300px;
+  width: 70%;
 }
-@media (min-width: 500px) {
+@media (min-width: 600px) {
   nav {
     position: fixed;
     min-width: 290px;
@@ -73,8 +73,5 @@ img {
     background-color: #1d3557;
     color: #f1faeed8;
     padding: 10px;
-  }
-  img {
-    width: 70%;
   }
 }
